@@ -6,10 +6,10 @@
 
 ## Instructions
 
-Welcome to Hashketball! In this lab, you will be implementing methods to work
+Welcome to Hashketlab that will return a nested hash, which you'll be
+working with as you write methods to solve the deliverables below.ball! In this lab, you will be implementing methods to work
 with a nested data structure. There's a method `#game_hash` that has been
-provided to you in this lab that will return a nested hash, which you'll be
-working with as you write methods to solve the deliverables below.
+provided to you in this 
 
 We also strongly recommend that you read the **_entire_** README before you
 start coding. We're going to show some tips and tricks that make the coding a
